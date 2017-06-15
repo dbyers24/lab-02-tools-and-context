@@ -1,6 +1,6 @@
 'use strict';
 
-const peaches = require('./lib/fp.js');
+const peaches = require('../lib/fp.js');
 
 const upperCase = module.exports = () => {
   let thing1 = process.argv;
